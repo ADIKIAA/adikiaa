@@ -2,8 +2,8 @@
 
 #### About me
 
-* I am 24 years old programmer from Moscow 💻
-* My Java expirience is 1 years ⌚
+* I am 25 years old programmer from Moscow 💻
+* My Java expirience is 2 years ⌚
 
 -----------
 
