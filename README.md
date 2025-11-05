@@ -8,12 +8,12 @@ I'm a backend Java developer with 2+ years of experience building scalable, secu
 
 ## 🚀 About Me
 
-- 🔧 Backend development with **Java 8–21**, **Spring Boot**, **Spring Cloud**, **WebFlux**, **Kafka**, **RabbitMQ**
-- 🔐 End-to-end application security with **Spring Security**, **OAuth2**, **JWT**, and **Keycloak**
-- 🧠 Integrated AI (GPT) into microservices for expert systems
-- 🧵 Built **multithreaded solutions** to process data 5–10x faster
-- 📦 Deployed full-stack platforms from scratch (backend, frontend, CI/CD, Nginx, Ubuntu)
-- 👥 Mentored junior developers and led small backend teams
+- 💻 Development and maintenance of Java-based microservices (Java 8–21, Spring Boot, Spring Cloud)
+- 🧩 Designed and implemented new services and REST APIs from scratch
+- 🔄 Improved legacy code through refactoring and unit test coverage expansion
+- ⚙️ Implemented inter-service communication via REST and Kafka
+- 👥 Mentored junior developers, conducted code reviews, and contributed to process improvements
+- 🧱 Participated in architecture discussions, requirements analysis, and sprint planning
 
 ---
 
