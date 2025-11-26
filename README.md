@@ -2,7 +2,7 @@
 
 🎯 **Java Developer | Backend Engineer | Microservices Architect**
 
-I'm a backend Java developer with 2+ years of experience building scalable, secure systems. I specialize in Spring Boot, microservices, and system design, with a focus on clean code, performance, and delivering real business value.
+I'm a backend Java developer with 3+ years of experience building scalable, secure systems. I specialize in Spring Boot, microservices, and system design, with a focus on clean code, performance, and delivering real business value.
 
 ---
 
